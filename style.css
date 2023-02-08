@@ -1,0 +1,9 @@
+tr{
+    width: 400px;
+}
+
+td{
+    background-color: green;
+    width: 133px;
+    height: 133px;
+}
